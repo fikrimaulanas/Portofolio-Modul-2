@@ -1,2 +1,4 @@
 # Portofolio-Modul-2
-Penggunaan LRFM untuk segmentasi customer
+BankChurners LRFM Analysis & Dashboard
+
+Proyek ini melakukan analisis perilaku pelanggan menggunakan metode LRFM (Length, Recency, Frequency, Monetary) pada dataset BankChurners. Langkah-langkah utama meliputi pembersihan data (cek missing values, duplikasi, dan deteksi outlier dengan IQR), perhitungan skor kuintil untuk masing‑masing dimensi LRFM, serta penyusunan profil pelanggan (LRFM_Profile). Kemudian, kami menyederhanakan segmentasi menjadi empat kategori strategis—Loyal, Potential, New, dan At Risk—berdasarkan kombinasi skor LRFM. Hasil segmentasi divisualisasikan melalui boxplot, bar chart, dan ringkasan metrik rata‑rata untuk setiap segmen. Akhirnya, data terstruktur dan siap di‑export ke BigQuery, serta dihubungkan ke Looker Studio untuk membangun dashboard interaktif yang menampilkan insight utama dan rekomendasi taktis untuk strategi retensi dan akuisisi pelanggan.
