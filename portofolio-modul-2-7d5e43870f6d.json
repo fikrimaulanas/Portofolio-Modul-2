@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "portofolio-modul-2",
+  "private_key_id": "7d5e43870f6d4ce399323e4fd791e852d984564f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6ST/zrDMyELVL\nvnE6xU72N5Ts/l+MlvzEsJg/kQaZx8H+/zcweDkILq+YGadT2eN96qHHcGJwUjov\nZlXMJe0fIn4XRVLDBdKtXQ99N1lHT2n9P1aayvTwOCiSokTTBnLDwo6UajHOQOv6\nBHgjBYrQl79pTPaesw7PPgnL/zrkRyXLdoqz6l3cxR/zHUUuzp+7YCj9Y01IlQ8I\nC6dovx/xQVKdbW3bbt32KkYzvBoe7aBseU0EwnktoQhjKOrK+GmPlQLEepN47DEN\nPb3VC8Q483DNyicb2vfefuBHUs2BVmlopjy8y/hcJ2+q0d2yvnnp9FiEDSspqVb5\n1cRZMv+FAgMBAAECggEAAabGl11ucsItKUe97zxyj8I8YsF6jV+FTCUYpG+ftFtN\n//m5PofCUa1AR0Pq9NZYqvQajQ8VAFPqSiNJHW80o/MFVSV7L1ls3baWfZCxDO3K\nTcFy/hpQg5Sr32jq3UgQWmXuJ6itWlu++89wVTcmXOULgF57TTrfJb0yDwnrNrza\n28DYP/SXamlEZprS/Fb9HsQbHALdqsoSf2FpXVjZT1xPJ5TKJCQmlDs2LdZ9FeLT\nPLV4F64k+jqYHEnKhDsFG1J6OI6ezlgu3TEvl54BsaR0sb5QhrI8lGvmouBfwg+R\ncSr8KNd4NYC5ndc0RfRKZvBUFzBy6MXqiRaaZOa+oQKBgQDkELLW7uG+XdSYGGJg\nHePjli56PI8LuXN0t11dz0t62V2I16d5xS750ie6jgFjr/c8HW3H06oj6ssnsD6u\n+PbWepa83PG3KF9Pi4F4gCTsbBhJH+Gd7fPEQno7J3T/utgmuAZi5ALk5ISvf6h9\nKBNKthfGEBK/CH4sPJDPaynWjQKBgQDRGoJ9OIvDoCAzT9Xz+ZNKIgKXWUtdeFV4\nMB1vmVuP2e4i03UAdGnfkO9rBQyzn+kedKCJiDu7ws3MCqRC3Fg6XeDz7xhXtCKZ\nhT0G2bR5qYpfjNujnJpphANMN6fExXfeyRxm6+VA3QHfNA2RYXFOYq+drlfKUwka\nbzf3We0q2QKBgAtBD7Ivg5BDTRRcT65yiyZV6OE7T8vCUQI3cjII4q6jP0xbZ/ZI\nVrMZPcCk9UiYDFk5EovD1CeFlJTWy6ESxAt9bSbQuFTTdzCTr8XkfO31v5UML7P9\nZAQRS7rTjaB49eWjOx1yJvpolGucnxHeAmWzaqTpciNfJerE6lhx71SZAoGAb8r6\nhLQclQQg8w311zBRfMreE8ibsGdLWqxusGGPQENFO71NymZyzCISvma+ubH+0leM\nFLuPI/0sRbBSzaQ8T0gtonzryMf3z5gaXnU6Nelcn2URcFGjhFId6TvAKEViputi\nkewAb0M5YvnTXyx3hW7hcS3qpbLrJQTdKRMc51ECgYEAh6kPvLzDKMKFBS8Hgs06\ndF/xYKRXW/0W+8sCMkqTIbwP8JyWOdcXXmfDoWFl4Hc8cg4oaLnY7eyZbSgk930F\nkTesrVnQeka4+bmYAwzDIdv4gxNCMMCdIKKbtcmCARuECqtfWnSamKwMpFx1UtsP\n+NVEDuqFIW32uIB8FkbUt0A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bank-churners@portofolio-modul-2.iam.gserviceaccount.com",
+  "client_id": "105194534140927498594",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bank-churners%40portofolio-modul-2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
